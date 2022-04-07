@@ -108,7 +108,7 @@ export class FoodService {
         favorite: false,
         origins: ['india'],
         star: 4.6,
-        imageUrl: 'dist/foodorder/assets/img9.jpg',
+        imageUrl: C:\Users\HP\Desktop\food\Foodorder\dist\foodorder\assets\img1.jpg
         tags: ['Green tea']
       },
       {
