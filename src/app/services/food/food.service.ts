@@ -86,7 +86,7 @@ export class FoodService {
         favorite: false,
         origins: ['india'],
         star: 4.5,
-        imageUrl: '/assets/img5.jpg',
+        imageUrl: 'src/assets/img15.jpg',
         tags: ['Fastfood', 'somosha']
       },
       {
