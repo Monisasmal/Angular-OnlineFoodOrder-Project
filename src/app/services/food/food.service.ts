@@ -37,7 +37,7 @@ export class FoodService {
       {
         id: 1,
         name: ' Choccolate Ice-Cream',
-        cooktime: '10-20',
+        cooktime: '10-30',
         price: 50,
         favorite: true,
         origins: ['india'],
