@@ -42,7 +42,7 @@ export class FoodService {
         favorite: true,
         origins: ['india'],
         star: 4.5,
-        imageUrl: '/assets/img11.JPG',
+        imageUrl: 'dist/foodorder/assets/img11.JPG',
         tags: ['Ice-Cream']
       },
       {
